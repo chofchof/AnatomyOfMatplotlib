@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-plt.style.use('classic')
+#plt.style.use('classic')
 
 # Try to reproduce the figure shown in images/exercise_4-1.png
 # Here's the data and colors used.
